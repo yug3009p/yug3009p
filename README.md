@@ -80,8 +80,6 @@ Security auditor for **Model Context Protocol** servers — the new AI-agent att
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-![Anthropic](https://img.shields.io/badge/Anthropic-D4A373?style=flat-square)
-
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
 ---
