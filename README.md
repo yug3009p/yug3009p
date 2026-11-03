@@ -2,13 +2,12 @@
 
 # Hi, I'm Yug 👋
 
-### Cybersecurity Master's @ UT Dallas · Building at the intersection of **AI** and **Security**
+### Security analyst · DFIR · SOC & detection engineering · AI security
+
+M.S. Cybersecurity, Technology & Policy @ UT Dallas (GPA 4.0/4.0) · Dallas, TX
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugpatel9409/)
-
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yug3009p@gmail.com)
-
-[![Location](https://img.shields.io/badge/Dallas%2C_TX-000000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -16,99 +15,79 @@
 
 ### 🎯 About
 
-I'm a **M.S. Cybersecurity, Technology & Policy** student at **UT Dallas (GPA 4.0/4.0)** focused on the next generation of security problems: **LLM security, AI agent vulnerabilities, and SOC automation**.
-
-I build open-source security tools mapped to **OWASP LLM Top 10**, **OWASP Agentic Top 10**, and **MITRE ATT&CK**.
+- **11 months of SOC and vulnerability management** at Civica: Splunk correlation rules and alert triage, Nessus / Nmap assessments, Wireshark traffic analysis.
+- **Top scorer and flag solver at Toyota HackFesta 2026**, an automotive security CTF (CAN traffic, ECU behaviour, attack paths).
+- **Vulnerability disclosure:** reported a missing-authorization flaw (CWE-862) in a WordPress plugin to MITRE; CVE pending.
+- I build open-source security tools mapped to **MITRE ATT&CK** and the **OWASP LLM / Agentic Top 10**, with tests and CI.
 
 ---
 
 ### 🚀 Featured Projects
 
 <table>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+#### 🧭 [DFIR Triage Automator](https://github.com/yug3009p/dfir-triage-automator)
+
+Windows EVTX, Shimcache, Amcache and registry artifacts in **one timeline**, 11 deterministic **ATT&CK** detection rules, and a self-contained HTML report.
+
+`Python` `DFIR` `MITRE ATT&CK` `Docker`
+
+</td>
+<td width="50%" valign="top">
 
 #### 🛡️ [AI-SOC Copilot](https://github.com/yug3009p/ai-soc-copilot)
 
-LLM-powered SOC alert triage: paste a raw alert, get severity, **MITRE ATT&CK** mapping and **Splunk SPL** hunt queries.
+LLM-assisted SOC alert triage: paste a raw alert, get severity, **ATT&CK** mapping, response actions and **Splunk SPL** hunt queries.
 
-`Python` `Streamlit` `Groq` `MITRE ATT&CK` `Splunk SPL`
+`Python` `Streamlit` `Splunk SPL` `LLM`
 
 </td>
-
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 #### 🔍 [MCP-Scanner](https://github.com/yug3009p/mcp-scanner)
 
-Security auditor for **Model Context Protocol** servers — the new AI-agent attack surface. 7 scanners with CVSS 3.1 scoring + OWASP mapping.
+Security auditor for **Model Context Protocol** configs: 7 deterministic scanners with CVSS 3.1 scoring and OWASP mapping; secrets are redacted before any optional LLM pass.
 
-`Python` `Streamlit` `CVSS 3.1` `OWASP Agentic Top 10`
+`Python` `AI security` `CVSS 3.1` `OWASP`
 
 </td>
+<td width="50%" valign="top">
 
+#### 🧪 [Agent Threat Taxonomy](https://github.com/yug3009p/agent-threat-taxonomy)
+
+Catalog of **52 AI-agent attacks** in 7 categories with OWASP and CWE mappings, plus a live scanner that uses an LLM judge.
+
+`Python` `Prompt injection` `Red teaming` `OWASP`
+
+</td>
 </tr>
-
 </table>
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tools & Skills
 
-**Security & SIEM**
+**Security:** Splunk (SPL) · Nessus · Nmap · Metasploit · Wireshark · MITRE ATT&CK · Windows EVTX analysis · CVSS 3.1 · NIST CSF
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+**Code & platforms:** Python · PowerShell · Bash · SQL · Docker · Linux · Windows Server · Microsoft Azure · GitHub Actions
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=flat-square)
-
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Cloud & AI**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Yug's GitHub stats](https://github-readme-stats.vercel.app/api?username=yug3009p&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yug3009p&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+**Certifications:** Cisco Cybersecurity Defense Analyst · Google Cybersecurity Professional Certificate · DFIR (uCertify)
 
 ---
 
 ### 🎓 Currently
 
-- Building **[dfir-triage-automator](https://github.com/yug3009p/dfir-triage-automator) v1**: Windows EVTX, Shimcache, Amcache and registry artifacts merged into one triage timeline
-
+- Validating [dfir-triage-automator](https://github.com/yug3009p/dfir-triage-automator) against real Windows artifacts ahead of its v1.0 release
 - Researching prompt injection defenses in agentic AI systems
-
 - Available for **Spring and Summer 2027 internships** and **full-time from June 2027** in DFIR, SOC, AI Security, or GRC
 
 ---
 
 <div align="center">
-
-*"The best way to predict the future is to secure it."*
 
 **[LinkedIn](https://www.linkedin.com/in/yugpatel9409/) · [Email](mailto:yug3009p@gmail.com) · [GitHub](https://github.com/yug3009p)**
 
