@@ -4,7 +4,7 @@
 
 ### Cybersecurity Master's @ UT Dallas · Building at the intersection of **AI** and **Security**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-patel-b9727226b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugpatel9409/)
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yug3009p@gmail.com)
 
@@ -110,6 +110,6 @@ Security auditor for **Model Context Protocol** servers — the new AI-agent att
 
 *"The best way to predict the future is to secure it."*
 
-**[LinkedIn](https://www.linkedin.com/in/yug-patel-b9727226b/) · [Email](mailto:yug3009p@gmail.com) · [GitHub](https://github.com/yug3009p)**
+**[LinkedIn](https://www.linkedin.com/in/yugpatel9409/) · [Email](mailto:yug3009p@gmail.com) · [GitHub](https://github.com/yug3009p)**
 
 </div>
