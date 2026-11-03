@@ -18,7 +18,7 @@
 
 I'm a **M.S. Cybersecurity, Technology & Policy** student at **UT Dallas (GPA 4.0/4.0)** focused on the next generation of security problems: **LLM security, AI agent vulnerabilities, and SOC automation**.
 
-I build production-grade security tools that map to **OWASP LLM Top 10**, **OWASP Agentic Top 10**, and **MITRE ATT&CK** — the same frameworks Fortune 500 security teams use in 2026.
+I build open-source security tools mapped to **OWASP LLM Top 10**, **OWASP Agentic Top 10**, and **MITRE ATT&CK**.
 
 ---
 
@@ -32,7 +32,7 @@ I build production-grade security tools that map to **OWASP LLM Top 10**, **OWAS
 
 #### 🛡️ [AI-SOC Copilot](https://github.com/yug3009p/ai-soc-copilot)
 
-LLM-powered SOC alert triage platform. Reduces mean triage time from **15min → under 2min**.
+LLM-powered SOC alert triage: paste a raw alert, get severity, **MITRE ATT&CK** mapping and **Splunk SPL** hunt queries.
 
 `Python` `Streamlit` `Groq` `MITRE ATT&CK` `Splunk SPL`
 
@@ -98,11 +98,11 @@ Security auditor for **Model Context Protocol** servers — the new AI-agent att
 
 ### 🎓 Currently
 
-- Building 3 cybersecurity portfolio projects under the theme **"AI-Augmented Security Operations"**
+- Building **[dfir-triage-automator](https://github.com/yug3009p/dfir-triage-automator) v1**: Windows EVTX, Shimcache, Amcache and registry artifacts merged into one triage timeline
 
 - Researching prompt injection defenses in agentic AI systems
 
-- Open to **Summer/Fall 2026 internships** in SOC, AI Security, AppSec, or GRC
+- Available for **Spring and Summer 2027 internships** and **full-time from June 2027** in DFIR, SOC, AI Security, or GRC
 
 ---
 
